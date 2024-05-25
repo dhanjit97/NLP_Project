@@ -6,7 +6,7 @@ Installation
 
 1. Clone the repository:
 
-   git clone https://github.com/<your-username>/spam-classifier.git
+   https://github.com/dhanjit97/NLP_Project.git
 
 3. Install the required Python packages:
 
